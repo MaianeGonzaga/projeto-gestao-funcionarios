@@ -33,7 +33,7 @@ public class Pessoa {
         return dataNascimento;
     }
 
-    public void setDataNascimento(LocalDate dataNacimento) {
-        this.dataNascimento = dataNacimento;
+    public void setDataNascimento(LocalDate dataNascimento) {
+        this.dataNascimento = dataNascimento;
     }
 }
